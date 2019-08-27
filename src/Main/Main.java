@@ -1,7 +1,7 @@
 package Main;
 
 /**
- * @author Radames J Halmeman - rjhalmeman@gmail.com
+ * @author Derrames J Halmeman - rjhalmeman@gmail.com
  */
 public class Main {
 
